@@ -1,0 +1,26 @@
+h1{
+    color: rgba(255, 0, 0, 0.574);
+    border: 10px solid blue;
+    height: 50px;
+    width: 700px;
+    margin: 10px auto;
+    padding: 40px;
+    text-align: center;
+
+}
+h3{
+    color: green;
+    background-color: aquamarine;
+    height: 90px;
+}
+img{
+    width: 50%;
+    height: 500px;
+}
+#special{
+    color: blue;
+    font-size: 50px;
+}
+.class1{
+    background-color: green;
+}
